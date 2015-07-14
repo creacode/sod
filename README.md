@@ -1,2 +1,2 @@
 # sod
-OLD mIRC script.. Lots of features.
+Spirits of death Team mIRC script.. Lots of features.
